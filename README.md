@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MoLahbib/MoLahbib/main/circuit-banner.svg" width="100%" alt="Mohamed Lahbib Banner"/>
+<img src="https://raw.githubusercontent.com/MoLahbib/MoLahbib/main/circuit-banner.svg?v=2" width="100%" alt="Mohamed Lahbib Banner"/>
 
 <br><br>
 
@@ -22,7 +22,7 @@
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/MoLahbib/MoLahbib/main/divider-sweep.svg" width="60%">
+<img src="https://raw.githubusercontent.com/MoLahbib/MoLahbib/main/divider-sweep.svg?v=4" width="60%">
 
 <br><br>
 
