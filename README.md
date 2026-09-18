@@ -22,6 +22,10 @@
 
 <br><br>
 
+<img src="https://raw.githubusercontent.com/MoLahbib/MoLahbib/main/divider-sweep.svg" width="60%">
+
+<br><br>
+
 <img src="https://komarev.com/ghpvc/?username=MoLahbib&label=PROFILE%20VIEWS&style=for-the-badge">
 
 <img src="https://img.shields.io/github/followers/MoLahbib?label=FOLLOWERS&style=for-the-badge">
