@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" width="100%" alt="Mohamed Lahbib Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,50:2563EB,100:1E3A8A&height=220&section=header&text=MOHAMED%20LAHBIB&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Software%20%26%20Data%20Engineer&descAlignY=55&descSize=20&width=100%" width="100%" alt="Mohamed Lahbib Banner"/>
 
 <br><br>
 
@@ -71,3 +71,4 @@ const mohamed: Engineer = {
         "Docker"
     ]
 };
+```
