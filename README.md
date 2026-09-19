@@ -151,3 +151,38 @@ const mohamed: Engineer = {
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
 
 </div>
+
+---
+
+## 🏆 FEATURED PROJECTS
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 [PROJEKTNAME 1]
+
+**[Kurzer Untertitel]**
+
+[1-2 Sätze Beschreibung, was das Projekt macht und welches Problem es löst.]
+
+`Tech 1` `Tech 2` `Tech 3` `Tech 4`
+
+🔗 [View Project](DEIN_PROJEKT_LINK_1)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏋️ [PROJEKTNAME 2]
+
+**[Kurzer Untertitel]**
+
+[1-2 Sätze Beschreibung, was das Projekt macht und welches Problem es löst.]
+
+`Tech 1` `Tech 2` `Tech 3` `Tech 4`
+
+🔗 [View Project](DEIN_PROJEKT_LINK_2)
+
+</td>
+</tr>
+</table>
