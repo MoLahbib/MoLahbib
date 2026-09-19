@@ -40,7 +40,7 @@
 
 <table>
 <tr>
-<td valign="top" width="60%">
+<td valign="top" width="55%">
 
 ```typescript
 interface Engineer {
@@ -82,7 +82,7 @@ const mohamed: Engineer = {
 ```
 
 </td>
-<td valign="top" width="40%" align="center">
+<td valign="top" width="45%" align="center">
 <img src="https://raw.githubusercontent.com/MoLahbib/MoLahbib/main/mission-illustration.gif" width="100%">
 </td>
 </tr>
