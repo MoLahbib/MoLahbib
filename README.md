@@ -83,7 +83,16 @@ const mohamed: Engineer = {
 
 </td>
 <td valign="top" width="45%" align="center">
-<img src="https://raw.githubusercontent.com/MoLahbib/MoLahbib/main/mission-illustration.gif" width="100%">
+<img src="https://raw.githubusercontent.com/MoLahbib/MoLahbib/main/mission-illustration.gif?v=2" width="100%">
 </td>
 </tr>
 </table>
+
+---
+
+## 🎯 QUICK FACTS
+
+- 🎯 **Currently:** Building intelligent apps & AI solutions
+- 🌱 **Learning:** Advanced ML, System Design, Cloud Architecture
+- 💡 **Interests:** Generative AI, Recommender Systems, Real-time Apps
+- ⚡ **Fun Fact:** Fitness enthusiast who debugs code between sets 💪
