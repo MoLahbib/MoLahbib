@@ -83,7 +83,7 @@ const mohamed: Engineer = {
 
 </td>
 <td valign="top" width="40%" align="center">
-<img src="https://raw.githubusercontent.com/MoLahbib/MoLahbib/main/mission-illustration.svg" width="100%">
+<img src="https://raw.githubusercontent.com/MoLahbib/MoLahbib/main/mission-illustration.gif" width="100%">
 </td>
 </tr>
 </table>
